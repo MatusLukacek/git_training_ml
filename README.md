@@ -1,1 +1,1 @@
-# git_training_ml
+This repo is for practicing the material covered in the EMEA Git training.
